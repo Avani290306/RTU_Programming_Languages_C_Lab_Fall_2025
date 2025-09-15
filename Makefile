@@ -1,4 +1,5 @@
 
+
 # Simple Makefile for Lab 1
 CC = gcc
 CFLAGS = -std=c11 -Wall -Wextra -Wpedantic -O2
